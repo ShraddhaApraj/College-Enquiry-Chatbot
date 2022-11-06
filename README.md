@@ -1,1 +1,3 @@
 # College-Enquiry-Chatbot
+Chat bot machine has embedded knowledge to identify the sentences and making decision as to answer a question. Chat bots are usually stately services, it remembers the previous information or commands and processes them in order to answer any query. When chat bot applications are integrated with popular web services they can be used by a large audience.This Student chat bot system provides answers to the queries of the user by analyzing them. The College inquiry chat-bots will be built using AIML and NLP that analyze user's queries and understand user's message. The response principle is to match the input string from a user. The System analyses the question and then answers the user.
+
